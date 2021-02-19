@@ -1,0 +1,7 @@
+Engenharia Informática
+Gestão 18 5
+Algebra Linear 12 5
+Tecnologias Web 15 4
+Análise Matémática 17 6
+Sistemas Digitais 14 5
+Introdução à programação 14 5
